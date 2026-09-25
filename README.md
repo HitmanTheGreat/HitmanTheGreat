@@ -50,8 +50,16 @@ I love Linux, and I'm proficient in Java, Python, C, React Native, React, Postgr
     <td><img src="https://skillicons.dev/icons?i=django,postgres,mysql,pytorch&perline=6" /></td>
   </tr>
   <tr>
+    <td><b>Business systems</b></td>
+    <td><img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" /></td>
+  </tr>
+  <tr>
     <td><b>Cloud and DevOps</b></td>
     <td><img src="https://skillicons.dev/icons?i=linux,aws,gcp,kubernetes,terraform&perline=6" /></td>
+  </tr>
+  <tr>
+    <td><b>Editors and IDEs</b></td>
+    <td><img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio&perline=6" /></td>
   </tr>
 </table>
 

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0A66C2,100:25D366&text=HitmanTheGreat&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Built%20in%20Africa%2C%20for%20Africa&descSize=18&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0A66C2,100:25D366&text=HitmanTheGreat&fontColor=ffffff&fontSize=52&fontAlignY=50" />
 </p>
 
 <p align="center">
@@ -24,13 +24,6 @@
   </picture>
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=HitmanTheGreat&hide_border=true&theme=react-dark&bg_color=00000000" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=HitmanTheGreat&hide_border=true&bg_color=ffffff00" />
-  </picture>
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0A66C2,100:25D366" width="100%" />
 
 ## Now
@@ -46,11 +39,11 @@ I love Linux, and I'm proficient in Java, Python, C, React Native, React, Postgr
 <table>
   <tr>
     <td><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=java,python,c,ts,go,bash&perline=6" /></td>
+    <td><img src="https://skillicons.dev/icons?i=java,kotlin,python,c,cs,ts,bash&perline=7" /><br/><img src="https://img.shields.io/badge/Visual%20Basic-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /></td>
   </tr>
   <tr>
     <td><b>Frontend and mobile</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react,flutter&perline=6" /> (React Native included)</td>
+    <td><img src="https://skillicons.dev/icons?i=react,vue,flutter&perline=6" /> (React Native included)</td>
   </tr>
   <tr>
     <td><b>Backend and data</b></td>
@@ -70,22 +63,18 @@ I love Linux, and I'm proficient in Java, Python, C, React Native, React, Postgr
   <tr>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=HitmanTheGreat&show_icons=true&hide_border=true&count_private=true&theme=dark&bg_color=00000000" />
-        <img height="170" src="https://github-readme-stats.vercel.app/api?username=HitmanTheGreat&show_icons=true&hide_border=true&count_private=true&bg_color=00000000" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=HitmanTheGreat&show_icons=true&hide_border=true&count_private=true&theme=dark&bg_color=00000000" />
+        <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HitmanTheGreat&show_icons=true&hide_border=true&count_private=true&bg_color=00000000" />
       </picture>
     </td>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HitmanTheGreat&layout=compact&hide_border=true&theme=dark&bg_color=00000000" />
-        <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HitmanTheGreat&layout=compact&hide_border=true&bg_color=00000000" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HitmanTheGreat&layout=compact&hide_border=true&theme=dark&bg_color=00000000" />
+        <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HitmanTheGreat&layout=compact&hide_border=true&bg_color=00000000" />
       </picture>
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HitmanTheGreat&theme=flat&no-frame=true&row=1&column=7" />
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0A66C2,100:25D366" width="100%" />
 

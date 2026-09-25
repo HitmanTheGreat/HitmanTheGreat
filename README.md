@@ -51,7 +51,7 @@ I love Linux, and I'm proficient in Java, Python, C, React Native, React, Postgr
   </tr>
   <tr>
     <td><b>Business systems</b></td>
-    <td><img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" /> <img src="https://img.shields.io/badge/Acumatica-E4002B?style=for-the-badge&logoColor=white" /></td>
   </tr>
   <tr>
     <td><b>Cloud and DevOps</b></td>

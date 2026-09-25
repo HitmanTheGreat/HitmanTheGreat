@@ -55,7 +55,15 @@ I love Linux, and I'm proficient in Java, Python, C, React Native, React, Postgr
   </tr>
   <tr>
     <td><b>Cloud and DevOps</b></td>
-    <td><img src="https://skillicons.dev/icons?i=linux,aws,gcp,kubernetes,terraform&perline=6" /></td>
+    <td><img src="https://skillicons.dev/icons?i=linux,docker,nginx,aws,gcp,kubernetes,terraform&perline=7" /><br/><img src="https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white" /> <img src="https://img.shields.io/badge/Microservices-0A66C2?style=for-the-badge" /></td>
+  </tr>
+  <tr>
+    <td><b>AI and machine learning</b></td>
+    <td><img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&perline=6" /><br/><img src="https://img.shields.io/badge/Edge%20AI-76B900?style=for-the-badge&logo=nvidia&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td><b>IoT and embedded systems</b></td>
+    <td><img src="https://skillicons.dev/icons?i=arduino,raspberrypi&perline=6" /><br/><img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" /> <img src="https://img.shields.io/badge/ESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white" /> <img src="https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white" /> <img src="https://img.shields.io/badge/Edge%20Computing-0A66C2?style=for-the-badge" /></td>
   </tr>
   <tr>
     <td><b>Editors and IDEs</b></td>

@@ -55,7 +55,7 @@ I love Linux, and I'm proficient in Java, Python, C, React Native, React, Postgr
   </tr>
   <tr>
     <td><b>Cloud and DevOps</b></td>
-    <td><img src="https://skillicons.dev/icons?i=linux,docker,nginx,aws,gcp,kubernetes,terraform&perline=7" /><br/><img src="https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white" /> <img src="https://img.shields.io/badge/Microservices-0A66C2?style=for-the-badge" /></td>
+    <td><img src="https://skillicons.dev/icons?i=linux,docker,nginx,aws,gcp,kubernetes,terraform&perline=7" /><br/><img src="https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white" /> <img src="https://img.shields.io/badge/Microservices-0A66C2?style=for-the-badge" /> <img src="https://img.shields.io/badge/Cloud%20Infrastructure-0A66C2?style=for-the-badge" /></td>
   </tr>
   <tr>
     <td><b>AI and machine learning</b></td>
